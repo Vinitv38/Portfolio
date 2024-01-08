@@ -1201,6 +1201,7 @@ img{
 
 .portfolio-popup .pp-title{
     padding: 0 15px;
+    color: white;
 }
 
 body > div.pp.portfolio-popup.open > div.pp-details.active > div > div.pp-title > h2{
