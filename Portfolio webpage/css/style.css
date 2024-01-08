@@ -642,7 +642,7 @@ img{
 
 /* about section */
 .about-section{
-    padding: 10px 60px;
+    padding: 10px 10vw;
     /* min-height: 100vh; */
 }
 
