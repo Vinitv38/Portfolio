@@ -68,15 +68,15 @@
     .about-section .timeline .timeline-item:nth-child(odd){
         padding-right: 15px;
         text-align: left;
-        padding-left: 75px;
+        padding-left: 9vw;
     }
 
     .about-section .timeline .timeline-item:nth-child(even){
-        padding-left: 75px;
+        padding-left: 9vw;
     }
 
     .about-section .timeline:before{
-        left: 35px;
+        left: 0;
     }
 
     .about-section .timeline .timeline-item:nth-child(odd) .icon{
